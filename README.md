@@ -20,16 +20,16 @@
 
 ### 🎟 Event Management System
 Full-stack web application with User, Organizer & Admin panels  
-🔗 Live: https://uttsavevent.free.nf
+🔗 Live: https://uttsavevent.free.nf/ ---
 💻 GitHub: https://github.com/Jaydip2999/uttsav-event-management 
 
 ### 🌦 Weather App
 Real-time weather using API  
-💻 GitHub: https://github.com/your-username/weather-app  
+💻 GitHub: https://github.com/Jaydip2999/weather-app weather 
 
 ### ✅ To-Do List
 Simple task manager with Local Storage  
-💻 GitHub: https://github.com/your-username/todo-list  
+💻 GitHub: https://github.com/Jaydip2999/to-do-list  
 
 ---
 
