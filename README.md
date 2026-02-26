@@ -1,21 +1,39 @@
-# Hi, I'm Jaydip 👋
+# Hi, I'm Jaydip Dumraliya 👋
 
-Full-Stack Web Developer (Fresher)
+💻 Full-Stack Web Developer (Fresher)  
+🚀 Passionate about building real-world web applications  
+🎯 Open to Internship / Junior Developer roles  
 
-## About Me
-- Passionate about Web Development
-- Building real-world projects
-- Currently learning Backend Development
-- Open to Internship / Junior Developer roles
+---
 
-## Tech Stack
-HTML | CSS | JavaScript | PHP | MySQL | Git | GitHub
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React (Learning)  
+**Backend:** PHP, Node.js (Learning)  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, XAMPP  
+---
 
-## Projects
-- Event Management System (Live)
-- Weather App
-- To-Do List
+## 📌 Featured Projects
 
-## Contact
-LinkedIn: https://linkedin.com/in/your-link  
-Email: your-email@gmail.com
+### 🎟 Event Management System
+Full-stack web application with User, Organizer & Admin panels  
+🔗 Live: https://uttsavevent.free.nf/ 
+💻 GitHub: https://github.com/Jaydip2999/uttsav-event-management 
+
+### 🌦 Weather App
+Real-time weather using API  
+💻 GitHub: https://github.com/your-username/weather-app  
+
+### ✅ To-Do List
+Simple task manager with Local Storage  
+💻 GitHub: https://github.com/your-username/todo-list  
+
+---
+
+## 📫 Contact
+🔗 LinkedIn: https://linkedin.com/in/jaydip-dumraliya-3a3083350  
+✉️ Email: jaydipdumraliya2052@gmail.com
+
+---
+
+⭐ Currently improving my Full-Stack skills and building new projects.
