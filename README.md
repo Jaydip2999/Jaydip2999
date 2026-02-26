@@ -7,10 +7,13 @@
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React (Learning)  
-**Backend:** PHP, Node.js (Learning)  
-**Database:** MySQL  
-**Tools:** Git, GitHub, VS Code, XAMPP  
+🌐 HTML | CSS | JavaScript  
+⚛️ React (Learning)  
+🟢 Node.js (Learning)  
+⚙️ PHP  
+🗄 MySQL  
+🔧 Git | GitHub | VS Code | XAMPP  
+
 ---
 
 ## 📌 Featured Projects
