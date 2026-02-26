@@ -21,6 +21,7 @@
 ### 🎟 Event Management System
 Full-stack web application with User, Organizer & Admin panels  
 🔗 Live: https://uttsavevent.free.nf
+
 💻 GitHub: https://github.com/Jaydip2999/uttsav-event-management 
 
 ### 🌦 Weather App
